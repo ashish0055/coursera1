@@ -5,13 +5,15 @@
 }
 
 h1 {
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 	color: #000000;
+	font-weight: 600;
+	
 }
 
 body {
 	background-image: url("background.jpg");
-	background-color: #FEF5CA;
+	background-color: rgba(194, 245, 192, 0.712);
 
 }
 

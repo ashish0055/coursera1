@@ -5,7 +5,7 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	color: #000000;
 }
 
@@ -31,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: aqua;
 	width: 100%;
 	height: auto;
 	font-family: Helvetica;
@@ -43,6 +43,7 @@ section {
 #chicken {
 	border: 1px solid black;
 	text-align: center;
+	color: white;
 	width: 30%;
 	margin-left: 70%;
 	font-family: Georgia,sans-serif;
@@ -51,7 +52,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color:gray;
 }
 
 #beef {
@@ -65,7 +66,7 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FF1439;
+	background-color: yellow;
 }
 
 #sushi {
@@ -78,7 +79,7 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: red;
 	color: white;
 	padding: 5px;
 }
@@ -106,7 +107,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
+  border-radius: 0px;
+  background-color: rgb(219, 10, 80);
   color: #FFFFFF;
 }
 
@@ -125,6 +127,8 @@ section {
 .nav-brand {
   color: #FFFFFF;
   font-size: 1.5em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-top: 0px;
 }
 
 #nav-list {
